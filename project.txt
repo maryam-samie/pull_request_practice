@@ -2,3 +2,7 @@ GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
 The pull request was created in Github.
+This update improves the project.
+notes and changes
+- updated file
+- pull request stuff
